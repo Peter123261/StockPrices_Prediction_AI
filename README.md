@@ -1,12 +1,11 @@
-with open("README.md", "w", encoding="utf-8") as f:
-    f.write("""# 📈 StockPrice_Prediction_AI
+ 📈 StockPrice_Prediction_AI
 
 > **Tagline:** _Forecasting stock market moves with data-driven AI precision._
 
 **Intelligent Forecasting of Stock Market Prices Using Regression Machine Learning Models**
 
 ## 🔍 Project Overview
-This project builds and evaluates a high-performance supervised regression model to predict next-day stock prices using historical data from 10 major companies (e.g., Apple, Tesla, Microsoft).
+This project builds and evaluates a high-performance supervised regression model to predict next-day stock prices using historical data from 10 major companies (e.g., Apple, Tesla, Microsoft, Amazon, Nike, Google .....).
 
 ## 📁 Repository Structure
 ├── Data/ # Raw and processed datasets
