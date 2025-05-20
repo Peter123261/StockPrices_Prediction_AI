@@ -40,5 +40,6 @@ This model is production-ready and can be deployed as a REST API or web app (Str
 
 ---
 
-**Author**: Peter Olamojin · 
-[Email]olapeter1010@gmail.com
+**Author**: Peter Olamojin 
+
+Email: olapeter1010@gmail.com
